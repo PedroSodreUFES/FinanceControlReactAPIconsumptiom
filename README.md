@@ -1,6 +1,5 @@
 # Pagina de transações com consumo de API
 ## Página que exibe o saldo de serviços que o usuários anotou.
----
 ## Tecnologias usadas
 + React
 + Radix
