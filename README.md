@@ -4,3 +4,8 @@
 + React
 + Radix
 + Styled-components
++ json-server
++ React Hook Forms
++ Custom Hooks
++ Zod
++ Axios
